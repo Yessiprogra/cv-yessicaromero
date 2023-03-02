@@ -1,0 +1,53 @@
+*{
+  font-family: 'Itim', cursive;
+  font-size: 25px;
+}
+.logo {
+  
+}
+
+img {
+    display: block;
+    margin: auto;
+    background-color: rgb(131, 240, 207);
+    margin: 10px;
+    padding: 5px;
+    text-align:center;
+
+  }
+  h1 {
+    display: block;
+    margin: red;
+    text-align: center;
+    font-size: 45px;
+    box-shadow: 0 0 0 5px #c1eff7;
+    box-shadow: 0 0 0 15px #dddc94;
+   
+  }
+  body {
+    background-color: beige;
+    color: rgb(240, 118, 12);
+  } 
+ 
+ 
+  strong {
+    font size: 29px;
+  
+  }
+ 
+  body {
+    font-family: 'Lucida Sans Unicode';
+  }
+  strong{
+    font-size: 20px;
+  }
+  i {
+    display: block;
+    margin: auto;
+    width: 15px;
+}
+svg {
+  width: 30px; 
+  height: 30px;
+ 
+}
